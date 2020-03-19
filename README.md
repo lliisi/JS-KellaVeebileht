@@ -12,5 +12,7 @@ Veebilehel saab 4 asja teha:
 
 4)Kuupäeva numbri peale minnes on võimalik järjekorda muuta.
 
+Ekraanipilt rakendusest
+
 ![Screenshot (23).png](https://github.com/lliisi/JS-KellaVeebileht/blob/master/Screenshot%20(23).png)
 

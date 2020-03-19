@@ -2,7 +2,7 @@ Kodutöö Eesrakenduste arendamises.
 
 Liisi Liivik
 
-Veebilehel saab 3 asja teha:
+Veebilehel saab 4 asja teha:
 
 1)Kella värvi muuta
 

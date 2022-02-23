@@ -1,7 +1,5 @@
 Kodutöö Eesrakenduste arendamises.
 
-Liisi Liivik
-
 Veebilehel saab 4 asja teha:
 
 1)Kella värvi muuta
